@@ -1,3 +1,3 @@
 # DSA-Practice
 Data Structure &amp; Algorithm with Java Programming
-with Nikita Solanki
+with Nikita Solanki an Student
