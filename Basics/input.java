@@ -11,3 +11,5 @@ public class input {
         sc.close();
     }
 }
+
+// It means you take input from the user using the scanner class.
