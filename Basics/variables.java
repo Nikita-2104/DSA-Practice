@@ -1,4 +1,4 @@
-//  Chapter 2: Variables in Java
+//  Chapter 2
 package Basics;
 public class variables {
     public static void main(String[] args){
