@@ -1,3 +1,4 @@
+// Using normal IF-ELSE
 import java.util.Scanner;
 
 public class pr4 {
