@@ -7,10 +7,14 @@ public class pr1 {
          int n = sc.nextInt();
         //  for(int i = 1; i <= n; i++)
         int i = 0;
-        while(i < n){
+        // while(i < n){
+        //     System.out.println(i);
+        //      i = i + 1 ;
+    do {
             System.out.println(i);
-             i = i + 1 ;
-        }
+            i++;
+       }
+         while(i < n);
     }
     
 }
