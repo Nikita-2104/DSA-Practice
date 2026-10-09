@@ -1,3 +1,4 @@
+// Code for the sum of n numbers
 public class pr2 {
     public static void  main (String[] args){
         int sum = 0;
