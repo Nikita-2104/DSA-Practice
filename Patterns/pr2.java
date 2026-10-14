@@ -1,4 +1,4 @@
-// Pattern 1: Rectangle
+// Pattern 1: Simple Rectangle
 package Patterns;
 
 public class pr2 {
