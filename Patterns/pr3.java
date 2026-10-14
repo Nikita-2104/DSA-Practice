@@ -1,4 +1,4 @@
-// Pattern 2: Hollow Rectangle
+// Pattern 3: Hollow Rectangle
 package Patterns;
 
 public class pr3 {
