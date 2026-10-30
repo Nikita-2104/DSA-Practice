@@ -1,3 +1,4 @@
+// Solid Rhombus Pattern 
 package Patterns;
 
 public class pr11 {
