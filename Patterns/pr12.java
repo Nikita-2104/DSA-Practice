@@ -1,3 +1,4 @@
+// Number Pyramid Pattern
 package Patterns;
 
 public class pr12 {
