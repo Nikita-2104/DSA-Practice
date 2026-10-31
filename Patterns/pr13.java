@@ -1,3 +1,5 @@
+// Palindrome Number Pattern
+package Patterns;
   public class pr13 {
     public static void main(String[] args){
         int n = 5;
