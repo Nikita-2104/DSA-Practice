@@ -1,3 +1,4 @@
+// Hollow Rohmbus Pattern
 public class pr16 {
 
     public static void main(String[] args) {
