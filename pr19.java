@@ -5,7 +5,6 @@
 //   *****  
 //  *****    
 // *****  
-
 public class pr19 {
     public static void main(String[]args){
         int n = 5;
