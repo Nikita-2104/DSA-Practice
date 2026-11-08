@@ -1,5 +1,4 @@
 // Pattern for numeric Pyramids
-package Patterns2;
 public class pr20 {
     public static void main(String[]args){
         int number = 4;
