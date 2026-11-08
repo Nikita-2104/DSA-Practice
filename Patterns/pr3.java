@@ -1,6 +1,5 @@
-// Pattern 3x: Hollow Rectangle
+// Pattern 3: Hollow Rectangle
 package Patterns;
-
 public class pr3 {
     public static void main(String[] args) {
         int n = 5;
