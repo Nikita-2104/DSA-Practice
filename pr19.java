@@ -1,4 +1,4 @@
-// Pattern to print rhombus
+// Pattern to print Rhombus
 // Spaces = (n-i)
 //     *****
 //    *****
