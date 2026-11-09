@@ -1,6 +1,4 @@
-// Solid Rhombus Pattern 
-package Patterns2;
-
+// Pattern : 11.Solid Rhombus Pattern 
 public class pr11 {
     public static void main(String[] args){
         int n = 5;
