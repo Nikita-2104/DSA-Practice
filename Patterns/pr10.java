@@ -1,4 +1,4 @@
-// Pattern to print butterfly
+// Pattern 10 : to print butterfly
 package Patterns;
 
 public class pr10 {
