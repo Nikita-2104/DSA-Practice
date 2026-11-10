@@ -1,6 +1,4 @@
-// Number Pyramid Pattern
-package Patterns2;
-
+//Pattern : Number Pyramid Pattern
 public class pr12 {
     public static void main(String[] args){
         int n = 5;
