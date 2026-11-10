@@ -1,6 +1,4 @@
-package Patterns2;
-// Palindrome Number Pattern
-
+// Pattern :Palindrome Number Pattern
   public class pr13 {
     public static void main(String[] args){
         int n = 5;
