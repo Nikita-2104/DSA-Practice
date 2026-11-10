@@ -1,5 +1,4 @@
-package Patterns2;
-// Simple Diamond Pattern
+// Pattern : Simple Diamond Pattern
 public class pr14 {
     public static void main(String[] args){
         int n = 4;
